@@ -1,3 +1,5 @@
+> Please note: This document is still work in progress and solely serves as a draft set of (unofficial) guidelines may or may not be put in place.
+
 # Contributing to WebApiProxy
 
 Firstly, thank you for your participation in wanting to contribute to this awesome project! 
